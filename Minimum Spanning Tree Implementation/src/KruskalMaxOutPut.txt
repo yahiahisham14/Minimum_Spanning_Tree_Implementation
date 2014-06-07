@@ -1,0 +1,8 @@
+Cost 25.0             Time Taken : 46918 ms.
+
+From    TO    Weight
+1  --->  2      2.0
+2  --->  5      4.0
+4  --->  5      5.0
+2  --->  3      14.0
+Finished kruskal adjacency Matrix
